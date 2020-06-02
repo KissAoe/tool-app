@@ -1,10 +1,24 @@
+# tool-app
 
-# 常用工具
+## Project setup
+```
+npm install
+```
 
-## 开发工具
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-### 进制转换
+### Compiles and minifies for production
+```
+npm run build
+```
 
-### 时间工具
+### Lints and fixes files
+```
+npm run lint
+```
 
-### 安全工具
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
